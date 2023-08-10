@@ -1,6 +1,6 @@
 import BLOG from '@/blog.config'
 import DarkModeButton from '@/components/DarkModeButton'
-import { VercelIcon } from '@/components/VercelIcon'
+import { VercelIcon } from 'themes/simple - 副本/components/VercelIcon';
 
 export const Footer = (props) => {
   const d = new Date()
